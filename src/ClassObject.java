@@ -71,7 +71,8 @@ class Pet {
         }
     }
 
-    // Method Overloading
+    // Method Overloading ( equal name methods from different values or they
+    // quantity)
 
     public void calculateInfo(int oldLimit, int fatLimit) {
         System.out.println("My Info: ");
